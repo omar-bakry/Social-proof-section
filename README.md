@@ -4,6 +4,6 @@
 
 ## Welcome! 👋 I am Omar Bakri
 
-[Preview DEMO](https://github.com/omar-bakry/Social-proof-section/)
+[Preview DEMO](https://omar-bakry.github.io/Social-proof-section/)
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
